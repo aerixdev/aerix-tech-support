@@ -2,6 +2,15 @@
 [
 
 {
+"title": "제품소개",
+"tags": "",
+"keywords": "",
+"url": "bs100-landing-page.html",
+"summary": ""
+}
+,
+
+{
 "title": "소규모 대기배출시설 관리시스템 - 그린링크(Greenlink)",
 "tags": "",
 "keywords": "simulator",
@@ -47,15 +56,6 @@
 ,
 
 {
-"title": "스마트콤보(ITMS-850)",
-"tags": "",
-"keywords": "itms850",
-"url": "itms850-landing-page_old.html",
-"summary": ""
-}
-,
-
-{
 "title": "터치스크린",
 "tags": "",
 "keywords": "",
@@ -65,11 +65,11 @@
 ,
 
 {
-"title": "ITMS-850 데이터 MQTT 수신 예제",
+"title": "MQTT 데이터 포맷",
 "tags": "",
-"keywords": "mqtt",
-"url": "itms850-mqtt-parser-source.html",
-"summary": "스마틈콤보(제품명 : ITMS-850) 디바이스가 MQTT 브로커로 전송한 데이터를 분석하여 센서 데이터 값을 추출하는 예제 소스코드입니다."
+"keywords": "simulator",
+"url": "itms850-mqtt-format-page.html",
+"summary": "스마트콤보(ITMS-850) 디바이스에서 사용하는 MQTT 데이터 포맷에 대해서 설명하고 있는 기술자료입니다."
 }
 ,
 
@@ -79,15 +79,6 @@
 "keywords": "itms850",
 "url": "itms850-mqtt-parser-tool.html",
 "summary": ""
-}
-,
-
-{
-"title": "ITMS-850 MQTT 시뮬레이터",
-"tags": "",
-"keywords": "simulator",
-"url": "itms850-mqtt-simulator-source.html",
-"summary": "스마틈콤보(제품명 : ITMS-850) 디바이스와 동일한 형식으로 MQTT 브로커로 임의의 가상 센서 데이터 값을 전송하도록 구현한 예제 소스 코드입니다."
 }
 ,
 

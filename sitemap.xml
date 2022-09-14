@@ -14,6 +14,12 @@
   
   
   <url>
+    <loc>http://localhost:4000/bs100-landing-page.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/greenlink.html</loc>
   </url>
   
@@ -44,31 +50,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/itms850-landing-page_old.html</loc>
-  </url>
-  
-  
-  
-  <url>
     <loc>http://localhost:4000/itms850-lcd-page.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:4000/itms850-mqtt-parser-source.html</loc>
+    <loc>http://localhost:4000/itms850-mqtt-format-page.html</loc>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/itms850-mqtt-parser-tool.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/itms850-mqtt-simulator-source.html</loc>
   </url>
   
   
